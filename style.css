@@ -72,16 +72,6 @@ h4 { font-weight: normal;}
     margin-top: calc(190px - 2vw);
 }
 
-.bodycv
-
-{
-    font-family: "iA Writer Duo";
-    font-size: 13px;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-}
-
 .home {
   font-family: "iA Writer Duo";
   font-size: 13px;
